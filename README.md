@@ -4,7 +4,7 @@
 👋 Hi, I'm Abhinandh Sajeev
 B.Sc. Software Engineering Student @ University of Europe for Applied Sciences, Potsdam, Germany 🇩🇪
 
-<p> <a href="https://linkedin.com/in/abhinandhsajeev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:abhinandhnandhu114@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://abhinandhsajeev.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a> </p><img src="https://komarev.com/ghpvc/?username=abhinandhsajeev&style=flat-square&color=0F3D5C" alt="Profile views"></div>
+<p> <a https://www.linkedin.com/in/abhinandh-sajeev-44654a350 "><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:abhinandhnandhu114@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://abhinandhsajeev.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a> </p><img src="https://komarev.com/ghpvc/?username=abhinandhsajeev&style=flat-square&color=0F3D5C" alt="Profile views"></div>
 🚀 About Me
 🎓 3rd-semester Software Engineering student building a strong foundation in Python, C, C++, web development, and data analytics
 🌏 International journey: Kerala (India) → Dubai (UAE) → Potsdam (Germany)
