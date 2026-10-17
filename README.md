@@ -4,7 +4,7 @@
 👋 Hi, I'm Abhinandh Sajeev
 B.Sc. Software Engineering Student @ University of Europe for Applied Sciences, Potsdam, Germany 🇩🇪
 
-<p> <a https://www.linkedin.com/in/abhinandh-sajeev-44654a350 "><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:abhinandhnandhu114@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://abhinandhsajeev.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a> </p><img src="https://komarev.com/ghpvc/?username=abhinandhsajeev&style=flat-square&color=0F3D5C" alt="Profile views"></div>
+<p> <a href="https://www.linkedin.com/in/abhinandh-sajeev-44654a350"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:abhinandhnandhu114@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://abhinandhnandhu114.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a> </p><img src="https://komarev.com/ghpvc/?username=abhinandhnandhu114&style=flat-square&color=0F3D5C" alt="Profile views"></div>
 🚀 About Me
 🎓 3rd-semester Software Engineering student building a strong foundation in Python, C, C++, web development, and data analytics
 🌏 International journey: Kerala (India) → Dubai (UAE) → Potsdam (Germany)
@@ -37,7 +37,7 @@ Data Analytics Fundamentals
 Cybersecurity Fundamentals
 Software Development Lifecycle
 📊 GitHub Stats
-<div align="center"><!-- These work once you have real GitHub activity; replace USERNAME with your real username --><img src="https://github-readme-stats.vercel.app/api?username=abhinandhsajeev&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" height="170"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandhsajeev&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="170"></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=abhinandhnandhu114&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" height="170"> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandhnandhu114&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="170"></div>
 🌱 Learning Roadmap
 text
 
@@ -58,4 +58,4 @@ text
 <div align="right">
 ⬆ back to top
 
-</div><!-- How to use this README: 1. Create a NEW repository on GitHub with EXACTLY your username (e.g., abhinandhsajeev/abhinandhsajeev) 2. Initialize it with a README 3. Replace the content with this file, edit the placeholders, and commit 4. The shields/badges will render automatically 5. The stats cards will populate automatically once you have repos and commits 6. Update regularly as you learn new skills and complete projects! -->
+</div>
